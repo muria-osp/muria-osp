@@ -4,7 +4,7 @@
   "lang": "en-ID",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#1ea59a",
+  "theme_color": "#1b948a",
   "background_color": "#FFFFFF",
   "orientation": "portrait",
   "gcm_sender_id": "540868316921",
