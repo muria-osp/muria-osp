@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f374024d.chunk.css",
+    "main.js": "/static/js/main.c932d324.chunk.js",
+    "main.js.map": "/static/js/main.c932d324.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3da762df.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3da762df.js.map",
+    "static/css/2.2ca9bed3.chunk.css": "/static/css/2.2ca9bed3.chunk.css",
+    "static/js/2.e311debf.chunk.js": "/static/js/2.e311debf.chunk.js",
+    "static/js/2.e311debf.chunk.js.map": "/static/js/2.e311debf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2ca9bed3.chunk.css.map": "/static/css/2.2ca9bed3.chunk.css.map",
+    "static/css/main.f374024d.chunk.css.map": "/static/css/main.f374024d.chunk.css.map",
+    "static/js/2.e311debf.chunk.js.LICENSE.txt": "/static/js/2.e311debf.chunk.js.LICENSE.txt",
+    "static/media/themes.scss": "/static/media/bg-5.d0c7cf07.png",
+    "static/media/bg-1.f6776047.jpg": "/static/media/bg-1.f6776047.jpg",
+    "static/media/bg-2.d9183a24.jpg": "/static/media/bg-2.d9183a24.jpg",
+    "static/media/img-1.682df50a.png": "/static/media/img-1.682df50a.png",
+    "static/media/img-1.ba35b55b.png": "/static/media/img-1.ba35b55b.png",
+    "static/media/img-1.e30e59bf.png": "/static/media/img-1.e30e59bf.png",
+    "static/media/img-2.6652ab3d.png": "/static/media/img-2.6652ab3d.png",
+    "static/media/img-2.b07fc20e.png": "/static/media/img-2.b07fc20e.png",
+    "static/media/img-2.d826221a.png": "/static/media/img-2.d826221a.png",
+    "static/media/img-3.6197039c.png": "/static/media/img-3.6197039c.png",
+    "static/media/img-3.9d65cfb9.png": "/static/media/img-3.9d65cfb9.png",
+    "static/media/img-3.dc2e6497.png": "/static/media/img-3.dc2e6497.png",
+    "static/media/img-4.0e339563.png": "/static/media/img-4.0e339563.png",
+    "static/media/img-4.3352f7f1.png": "/static/media/img-4.3352f7f1.png",
+    "static/media/img-4.cffe18ef.png": "/static/media/img-4.cffe18ef.png",
+    "static/media/logo-dark.b6a73f1c.png": "/static/media/logo-dark.b6a73f1c.png",
+    "static/media/logo-light.23580abc.png": "/static/media/logo-light.23580abc.png",
+    "static/media/materialdesignicons.min.css": "/static/media/materialdesignicons-webfont.b70068f2.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3da762df.js",
+    "static/css/2.2ca9bed3.chunk.css",
+    "static/js/2.e311debf.chunk.js",
+    "static/css/main.f374024d.chunk.css",
+    "static/js/main.c932d324.chunk.js"
+  ]
+}
